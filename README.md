@@ -7,3 +7,4 @@ LeetCode is a very good website to sharpen problem solving/programming skills. T
 | Algorithms - Easy |
 | ------------- |
 | [1108 Defanging an IP Address](Level_Easy/1108_Defanging_IP_Address.js) |
+| [771 Jewels And Stones](Level_Easy/771_Jewels_And_Stones.js) |
