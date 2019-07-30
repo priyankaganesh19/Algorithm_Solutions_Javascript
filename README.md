@@ -11,3 +11,4 @@ LeetCode is a very good website to sharpen problem solving/programming skills. T
 | [709 To Lower Case](Level_Easy/709_ToLowerCase.js) |
 | [1021 Removing Outer Parentheses](Level_Easy/1021_Remove_Outer_Parentheses.js)
 | [804 Unique Morse Code Words](Level_Easy/804_Unique_Morse_Code.js)
+| [832 Fliiping An Image](Level_Easy/832_Flipping_An_Image.js)
